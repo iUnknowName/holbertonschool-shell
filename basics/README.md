@@ -1,0 +1,1 @@
+0. Write script that prints the absolute path name of the current working directory = pwd
