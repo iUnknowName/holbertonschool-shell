@@ -1,0 +1,1 @@
+In this project I will learn to make shell scripts to make startup files, variables and expansions.
